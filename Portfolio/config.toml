@@ -1,0 +1,135 @@
+baseurl = "http://www.james-allison.eu"
+title = "James Allison"
+
+theme = "hugo-coder-portfolio"
+
+DefaultContentLanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsUseClasses = true
+
+disqusShortname = ""
+
+[params]
+    author = "James Allison"
+    description = "James Allison's personal website"
+    keywords = "blog,developer,personal"
+    info = "Data Scientist"
+    avatarurl = "images/headshot.JPG"
+    # footercontent = "Enter a text here."
+    # fixedbarContent = "Do you want to know me more private?→"
+    # fixedbarContentAfter = "Thank You! Please share it if you like it→"
+
+    hideCredits = false
+    hideCopyright = false
+
+    # Bottom sns share
+    snsShare = true
+    # Popular sns share
+    # if you want add sns. please message!
+    enableTwitterShare = false
+    enableFacebookShare = false
+    enableHatenaShare = false
+    enableLineShare = false
+    enableLinkedInShare = false
+
+    thumbnail = "images/tn.png"
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    langseparator = "|"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/James-A-Allison"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 2
+    url = "https://twitter.com/Analyst_James_"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/james-allison/"
+[[params.social]]
+   # name = "LinkedIn"
+    # weight = 4
+    # url = "https://www.linkedin.com/in/naro143/"
+
+[languages]
+    [languages.en]
+        languagecode = "en"
+        languagename = "English" # The language name to be displayed in the selector.
+        title = "James Allison"
+
+        # You can configure the theme parameter for each language.
+        [languages.en.params]
+            author = "James Allison"
+            info = "Data Scientist"
+            description = "James Allison's personal website"
+            keywords = "blog,developer,personal"
+
+        [languages.en.menu] # It is possible to change the menu too.
+
+            [[languages.en.menu.main]]
+                name = "About"
+                weight = 1.0
+                url = "about"
+
+            [[languages.en.menu.main]]
+                name = "Posts"
+                weight = 2.0
+                url = "posts"
+
+            [[languages.en.menu.main]]
+                name = "Projects"
+                weight = 3
+                url = "projects"
+            [[languages.en.menu.main]]
+                name = "Contact me"
+                weight = 5
+                url = "contact"
+
+
+    [languages.es]
+        languagecode = "es"
+        languagename = "Spanish"
+        title = "James Allison"
+
+        [languages.es.params]
+            author = "James Allison"
+            description = "James Allison's personal website"
+            keywords = "blog,developer,strona domowa"
+            info = "Data Scientist"
+
+        [languages.es.menu]
+            [[languages.es.menu.main]]
+                name = "About"
+                weight = 1.0
+                url = "es/about"
+            [[languages.es.menu.main]]
+                name = "Posts"
+                weight = 2.0
+                url = "es/posts"
+            [[languages.es.menu.main]]
+                name = "Projects"
+                weight = 3
+                url = "es/projects"
+            [[languages.es.menu.main]]
+                name = "Contact me"
+                weight = 5
+                url = "es/contact"
