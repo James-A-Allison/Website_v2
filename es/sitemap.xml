@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.james-allison.eu/es/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.james-allison.eu/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.james-allison.eu/es/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.james-allison.eu/es/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.james-allison.eu/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.james-allison.eu/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.james-allison.eu/es/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.james-allison.eu/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.james-allison.eu/es/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.james-allison.eu/es/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.james-allison.eu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.james-allison.eu/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.james-allison.eu/es/posts/theme-demo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.james-allison.eu/posts/theme-demo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.james-allison.eu/es/posts/theme-demo/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.james-allison.eu/es/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.james-allison.eu/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.james-allison.eu/es/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.james-allison.eu/es/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.james-allison.eu/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.james-allison.eu/es/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.james-allison.eu/es/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.james-allison.eu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.james-allison.eu/es/tags/"
+                />
+  </url>
+  
+</urlset>

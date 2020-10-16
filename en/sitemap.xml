@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.james-allison.eu/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.james-allison.eu/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.james-allison.eu/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.james-allison.eu/posts/theme-demo/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.james-allison.eu/es/posts/theme-demo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.james-allison.eu/posts/theme-demo/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.james-allison.eu/posts/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.james-allison.eu/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.james-allison.eu/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.james-allison.eu/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.james-allison.eu/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.james-allison.eu/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.james-allison.eu/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.james-allison.eu/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.james-allison.eu/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.james-allison.eu/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.james-allison.eu/es/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.james-allison.eu/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.james-allison.eu/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.james-allison.eu/es/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.james-allison.eu/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.james-allison.eu/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.james-allison.eu/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.james-allison.eu/tags/"
+                />
+  </url>
+  
+</urlset>
