@@ -9,10 +9,14 @@ title: Projects
 
 Take a look [here](http://james-allison.eu:3838/Survey_Prototype/)
 
-## Price Analyiser
+## Value Analyser
 
-This is in progress
+Take a look [here](http://james-allison.eu:3838/Value_Analyser/)
 
 ## Twitter Analysis
 
 This is in progress
+
+## NFL Voronoi Visualisation
+
+Coming soon!
