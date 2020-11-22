@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.james-allison.eu/posts/2020-11-22-consumer-survey/</loc>
-    <lastmod>2020-11-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.james-allison.eu/</loc>
-    <lastmod>2020-11-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -19,21 +14,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.james-allison.eu/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.james-allison.eu/posts/</loc>
-    <lastmod>2020-11-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://www.james-allison.eu/es/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.james-allison.eu/posts/"
                 />
   </url>
   
@@ -49,6 +29,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.james-allison.eu/posts/theme-demo/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.james-allison.eu/posts/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.james-allison.eu/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.james-allison.eu/posts/"
                 />
   </url>
   
